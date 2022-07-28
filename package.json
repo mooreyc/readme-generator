@@ -1,5 +1,5 @@
 {
-  "name": "README-Generator",
+  "name": "readme-generator",
   "version": "1.0.0",
   "description": "When creating an open source project on GitHub, it is important to have a quality README.",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/markmcdnyu/README-Generator.git"
+    "url": "git+https://github.com/mooreyc/readme-generator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/markmcdnyu/README-Generator/issues"
+    "url": "https://github.com/mooreyc/readme-generator/issues"
   },
-  "homepage": "https://github.com/markmcdnyu/README-Generator#readme",
+  "homepage": "https://github.com/mooreyc/readme-generator#readme",
   "dependencies": {
     "inquirer": "^7.2.0"
   }
